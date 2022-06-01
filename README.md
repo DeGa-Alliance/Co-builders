@@ -1,7 +1,7 @@
 # Ecological Co-builders
 K-play ecological co-builder applications and the Operation Oversight Committee (OOC)
 
-For details on the co-builder approval process, please see [HIP001: K-plan](https://github.com/kplaydefi/KIP/blob/main/001%20K-plan.md).
+For details on the co-builder approval process, please see [KIP001: K-plan](https://github.com/kplaydefi/KIP/blob/main/001%20K-plan.md).
 
 ## Please use this [template](https://github.com/DeGa-Alliance/Co-builders/blob/main/Template.md) to make your proposal. Fork the template and edit it, please do not edit the template directly.
 The status of co-builders in this progress can be viewed [here](https://docs.google.com/spreadsheets/d/1d2ZKbnwiMyOX3VvVrRIKcEOMvNKRbUtdO1PdUc1ybpA/edit#gid=721162172).
