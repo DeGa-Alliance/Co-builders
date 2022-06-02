@@ -43,6 +43,7 @@ DeGaMiddleeast@gmail.com
 
 It takes 3-5 workdays for the DeGa team to review
 After passing the whitelist rules, you will receive a unique whitelist identification code:
+![image](https://user-images.githubusercontent.com/103825979/171607328-aeac5ba7-c17c-4d02-8d03-8939c41a01fa.png)
 
 Note: When you get the identification code, it is not bound to your Polygon address yet. You need to send the code and Polygon address to K-play for confirmation and binding.
 You can check whether the binding is successful:
