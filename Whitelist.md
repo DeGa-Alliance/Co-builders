@@ -29,9 +29,13 @@ The process of internal test:
 
 Web link:
 Polygon url：https://mumbai.polygonscan.com/
+
 KPT(test) contract address：0xBD83775c8998d929d752efE6595C1be23164eD9F
+
 KUSD(test) contract address：0xF76f04B07f24b363D28bE7a51bF8D1a242bE387F 
+
 PolygonTestnet(apply for Matic)：https://faucet.polygon.technology/
+
 K-play URL：https://www.kplay.pro/index
 
 Please complete the whitelist according to the above procedures, and contact your area mailbox to submit all materials (proof) to apply to wait for the reply. The area mailbox addresses are as follows:
