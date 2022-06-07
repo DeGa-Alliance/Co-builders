@@ -14,9 +14,9 @@ REAYOU TEC.CO is a leading global information technology, consulting and busines
 
  - Does your team have the ability to write and deploy smart contracts in Ethereum? Please provide relevant supporting materials via email DeGa.OOC@gmail.com. YES. The tech personnels in our team could write and smart contracts by several mouths' studying and practise.
  - Does your team have the ability to build servers? Please provide relevant supporting materials via email DeGa.OOC@gmail.com. Of course. We've sent to you.
- - What apps have your team developed or worked on? 
- - What games have your team developed or worked on?
- - Would you mind to provide a test account for auditing?
+ - What apps have your team developed or worked on? READ YOUR INFOR.
+ - What games have your team developed or worked on? Not yet.
+ - Would you mind to provide a test account for auditing? Of course.
 
 K-play will provide independent docking of API interfaces for ecological co-builders which can develop applications (games) by their own ability, so as to actively participate in the construction of K-play’s ecological applications. 
 
@@ -26,19 +26,19 @@ You need to have deep understanding of blockchain, DeFi and metaverse, then foll
 K-play official only supports users to apply as individuals, and official needs the legal qualification documents in validity. Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from K-play official. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application is submitted on GitHub.
 
 ## Capital & Plan (required)
- - How much money do you have on-hand, and how much do you have access to?
- - What kind of app or game do you plan to develop?
- - How much money do you plan to develop the app or game?
-
+ - How much money do you have on-hand, and how much do you have access to? about ten thousand usd. all in
+ - What kind of app or game do you plan to develop? A guessing game, and we're planning to create a social inform platform in metaverse.
+ - How much money do you plan to develop the app or game? ten thousand usd.
+ 
 ## About Community (required)
- - Does your team have any experience of operating active community which is about blockchain, DeFi and metaverse?
- - How many people in your community? 
- - What community scale is expected in the first three months? (how many people)
+ - Does your team have any experience of operating active community which is about blockchain, DeFi and metaverse? Of course we have
+ - How many people in your community? ahout 1thousand
+ - What community scale is expected in the first three months? (how many people) 1.5k
 
 ## Risks & Challenges (required)
 
 Please tell us about some of the challenges that would prevent the development of application and how you might address them.
-
+   As the low ebb in global blockchain industry, it may be a big crisis.
 ### Application Materials
 ##### - Applicant
 ##### - Purchase amount
