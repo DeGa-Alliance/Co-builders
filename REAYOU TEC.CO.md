@@ -1,19 +1,20 @@
 ### Please copy this template.md (do not edit the template directly)
 # REAYOU TEC.CO
-Application to become the ecological co-builder as per KIP001. The submission of a KIP001 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
 
 ## Summary
+REAYOU TEC.CO is a leading global information technology, consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics, cloud, analytics and emerging technologies to help our clients adapt to the digital world and make them successful. A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship. Together, we discover ideas and connect the dots to build a better and a bold new future.
+
 ## About Company (required)
- - What is your company name?
- - What is your business nature?
- - How long has the company been in business?
- - What brought you to the K-play platform?
+ - What is your company name? REAYOU TEC.CO
+ - What is your business nature? information technology
+ - How long has the company been in business? 5 years
+ - What brought you to the K-play platform? We are committed to exploring a new area(defi) of blockchain.
 
 ## About Tech (required)
 
- - Does your team have the ability to write and deploy smart contracts in Ethereum? Please provide relevant supporting materials via email DeGa.OOC@gmail.com.
- - Does your team have the ability to build servers? Please provide relevant supporting materials via email DeGa.OOC@gmail.com.
- - What apps have your team developed or worked on?
+ - Does your team have the ability to write and deploy smart contracts in Ethereum? Please provide relevant supporting materials via email DeGa.OOC@gmail.com. YES. The tech personnels in our team could write and smart contracts by several mouths' studying and practise.
+ - Does your team have the ability to build servers? Please provide relevant supporting materials via email DeGa.OOC@gmail.com. Of course. We've sent to you.
+ - What apps have your team developed or worked on? 
  - What games have your team developed or worked on?
  - Would you mind to provide a test account for auditing?
 
