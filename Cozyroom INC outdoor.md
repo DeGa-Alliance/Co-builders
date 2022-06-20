@@ -13,11 +13,20 @@ Blockchain, NFT, DeFi, FinTech, mobile apps, web portals cloud servers, DevOps, 
 
 ## About Tech (required)
 
- - Does your team have the ability to write and deploy smart contracts in Ethereum? Please provide relevant supporting materials via email DeGa.OOC@gmail.com.
+ - Does your team have the ability to write and deploy smart contracts in Ethereum? Please provide relevant supporting materials via email DeGa.OOC@gmail.com. 
+
+   yes. We are proud of developing edge technological custom solutions and components that meet our client’s needs.
  - Does your team have the ability to build servers? Please provide relevant supporting materials via email DeGa.OOC@gmail.com.
- - What apps have your team developed or worked on?
- - What games have your team developed or worked on?
- - Would you mind to provide a test account for auditing?
+
+   Absolutely yes. we got the best engineers in different areas on board, our team provides all development services in one place.
+ - What apps have your team developed or worked on? 
+
+   Design, Planning a software Architecture, Business Analysis and business models development, including database and local stores cache queries optimization, building user interfaces using all our knowledge in ergonomics and user experience, building high-load, blazingly fast web applications and APIs to support mobile solutions and reactive web browser front end, quality assurance and support staff in one company. 
+ - What games have your team developed or worked on? 
+
+   Our development efforts resulted in more than 30 mobile and web solutions – KYC on Blockchain, micro-loans credits network, social networking apps, e-commerce, news boards, other different business, and entertainment mobile applications.
+ - Would you mind to provide a test account for auditing? 
+
 
 K-play will provide independent docking of API interfaces for ecological co-builders which can develop applications (games) by their own ability, so as to actively participate in the construction of K-play’s ecological applications. 
 
