@@ -27,27 +27,26 @@ Blockchain, NFT, DeFi, FinTech, mobile apps, web portals cloud servers, DevOps, 
    Our development efforts resulted in more than 30 mobile and web solutions – KYC on Blockchain, micro-loans credits network, social networking apps, e-commerce, news boards, other different business, and entertainment mobile applications.
  - Would you mind to provide a test account for auditing? 
 
-
-K-play will provide independent docking of API interfaces for ecological co-builders which can develop applications (games) by their own ability, so as to actively participate in the construction of K-play’s ecological applications. 
-
-You need to have deep understanding of blockchain, DeFi and metaverse, then follow K-play official’s overall concept and layout of metaverse, DeFi, ecological applications and the floor financial system.
+OK, we've sent the email.
 
 ## Proof of Identity
 K-play official only supports users to apply as individuals, and official needs the legal qualification documents in validity. Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from K-play official. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application is submitted on GitHub.
 
 ## Capital & Plan (required)
- - How much money do you have on-hand, and how much do you have access to?
- - What kind of app or game do you plan to develop?
- - How much money do you plan to develop the app or game?
+ - How much money do you have on-hand, and how much do you have access to? More than 1million, and we are planning to use 100thousand usd to get kpt.
+ - What kind of app or game do you plan to develop? FinTech systems
+ - How much money do you plan to develop the app or game? 100thousand usd.
 
 ## About Community (required)
- - Does your team have any experience of operating active community which is about blockchain, DeFi and metaverse?
- - How many people in your community? 
- - What community scale is expected in the first three months? (how many people)
+ - Does your team have any experience of operating active community which is about blockchain, DeFi and metaverse? yes. We create our own high-performance components that are used for solving common tasks and help to save our client’s time and budget. Having the best engineers in different areas on board, our team provides all development services in one place.
+ - How many people in your community? More than 8k
+ - What community scale is expected in the first three months? (how many people) More than 2k.
 
 ## Risks & Challenges (required)
 
 Please tell us about some of the challenges that would prevent the development of application and how you might address them.
+
+Cause we have tried the similar programs before but there were oceans of mistakes just happened when our engineers started to audit the code. and they didn't know i
 
 ### Application Materials
 ##### - Applicant
