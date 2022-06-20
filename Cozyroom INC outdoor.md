@@ -46,7 +46,7 @@ K-play official only supports users to apply as individuals, and official needs 
 
 Please tell us about some of the challenges that would prevent the development of application and how you might address them.
 
-Cause we have tried the similar programs before but there were oceans of mistakes just happened when our engineers started to audit the code. and they didn't know i
+Cause we have tried the similar programs before but there were oceans of mistakes just happened when our engineers started to check the code. and they didn't know how to guarantee the property safe in smart contract.
 
 ### Application Materials
 ##### - Applicant
