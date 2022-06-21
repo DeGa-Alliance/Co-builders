@@ -27,18 +27,18 @@ You need to have deep understanding of blockchain, DeFi and metaverse, then foll
 K-play official only supports users to apply as individuals, and official needs the legal qualification documents in validity. Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from K-play official. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application is submitted on GitHub.
 
 ## Capital & Plan (required)
- - How much money do you have on-hand, and how much do you have access to?
- - What kind of app or game do you plan to develop?
- - How much money do you plan to develop the app or game?
+ - How much money do you have on-hand, and how much do you have access to? 100thousand usd
+ - What kind of app or game do you plan to develop? on-chain supermall
+ - How much money do you plan to develop the app or game? 50thousand usd
 
 ## About Community (required)
- - Does your team have any experience of operating active community which is about blockchain, DeFi and metaverse?
- - How many people in your community? 
- - What community scale is expected in the first three months? (how many people)
+ - Does your team have any experience of operating active community which is about blockchain, DeFi and metaverse? not yet now
+ - How many people in your community? Today, we have more than 7,000 employees from more than 100 nationalities who all work for the same mission: to reshape shopping, by elevating the entire shopping experience for avid shoppers.
+ - What community scale is expected in the first three months? (how many people)  Maybe 1.000
 
 ## Risks & Challenges (required)
 
-Please tell us about some of the challenges that would prevent the development of application and how you might address them.
+Please tell us about some of the challenges that would prevent the development of application and how you might address them. We did the traditional business before and now its a good chance for us to create a community(to exchange) in the metaverse based on the blockchain, and we've done a lot of work to study the contract code. But we would still like to find a platform with strong tech support to lead us.
 
 ### Application Materials
 ##### - Applicant
