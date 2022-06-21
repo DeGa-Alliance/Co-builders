@@ -8,16 +8,16 @@ We make shopping smoooth with the aim to become the world’s favorite way to sh
 ## About Company (required)
  - What is your company name? UntilU CO.LTD
  - What is your business nature? general store
- - How long has the company been in business? 
- - What brought you to the K-play platform?
+ - How long has the company been in business? about 5 years
+ - What brought you to the K-play platform? We think this platform is just like a metaverse and we can open the first great mall in it.
 
 ## About Tech (required)
 
- - Does your team have the ability to write and deploy smart contracts in Ethereum? Please provide relevant supporting materials via email DeGa.OOC@gmail.com.
- - Does your team have the ability to build servers? Please provide relevant supporting materials via email DeGa.OOC@gmail.com.
- - What apps have your team developed or worked on?
- - What games have your team developed or worked on?
- - Would you mind to provide a test account for auditing?
+ - Does your team have the ability to write and deploy smart contracts in Ethereum? Please provide relevant supporting materials via email DeGa.OOC@gmail.com. yes
+ - Does your team have the ability to build servers? Please provide relevant supporting materials via email DeGa.OOC@gmail.com. yes
+ - What apps have your team developed or worked on? smooth shop
+ - What games have your team developed or worked on? no
+ - Would you mind to provide a test account for auditing? ok we'll send to your team
 
 K-play will provide independent docking of API interfaces for ecological co-builders which can develop applications (games) by their own ability, so as to actively participate in the construction of K-play’s ecological applications. 
 
