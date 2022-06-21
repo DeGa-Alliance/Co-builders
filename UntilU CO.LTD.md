@@ -17,7 +17,7 @@ We make shopping smoooth with the aim to become the world’s favorite way to sh
  - Does your team have the ability to build servers? Please provide relevant supporting materials via email DeGa.OOC@gmail.com. yes
  - What apps have your team developed or worked on? smooth shop
  - What games have your team developed or worked on? no
- - Would you mind to provide a test account for auditing? ok we'll send to your team
+ - Would you mind to provide a test account for auditing? ok we'll send to your team mail
 
 K-play will provide independent docking of API interfaces for ecological co-builders which can develop applications (games) by their own ability, so as to actively participate in the construction of K-play’s ecological applications. 
 
